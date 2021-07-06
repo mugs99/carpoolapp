@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603360002990",
+    "firebase_url": "https://humraahi-e44cf-default-rtdb.firebaseio.com",
+    "project_id": "humraahi-e44cf",
+    "storage_bucket": "humraahi-e44cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603360002990:android:4c0af1b468ba49bc273e3f",
+        "android_client_info": {
+          "package_name": "com.humraahi.carpoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603360002990-6n581a6mkjm08hc8u38761jjcsegv7nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humraahi.carpoolapp",
+            "certificate_hash": "5ae19df524b7bcd4271f86b5070aad8a856519c6"
+          }
+        },
+        {
+          "client_id": "603360002990-tkk6i0nl50d69992hse8io4652gj5fcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3Ac7zOcMhQzRXmcDf_qB6eUPjILURTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603360002990-tkk6i0nl50d69992hse8io4652gj5fcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
